@@ -14,4 +14,6 @@ Sistem Informasi Akademik Terpadu
 <img src="https://user-images.githubusercontent.com/30565150/38082510-16f4223a-3371-11e8-8ec3-7f1ff7b6bd4b.png">
   <li>Kelola data Mahasiswa</li>
 <img src="https://user-images.githubusercontent.com/30565150/38082522-20678140-3371-11e8-9154-0848c7323a56.png">
+  <li>Cetak laporan data Mahasiswa</li>
+<img src="https://user-images.githubusercontent.com/30565150/38082810-03455e42-3372-11e8-9063-13429efef204.png">
 </ol>
